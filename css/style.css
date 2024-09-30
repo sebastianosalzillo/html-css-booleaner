@@ -37,6 +37,15 @@
 /* table csss */
 
 
+table {
+    border-collapse: collapse; 
+    border: none; 
+}
+
+td, th {
+    border: none; 
+    padding: 8px; 
+}
 
 
 .color-colon {
