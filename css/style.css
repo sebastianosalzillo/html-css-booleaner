@@ -1,0 +1,15 @@
+.header {
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    padding: 12px;
+    padding-top: 50px;
+    border-image-repeat: repeat;
+    background-size: contain;
+
+ 
+}
+
+.header-logo {
+    height: 50px;
+
+}
