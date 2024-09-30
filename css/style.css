@@ -13,3 +13,23 @@
     height: 50px;
 
 }
+
+
+/* fine header */
+.title {
+   font-size: 40px;
+}
+
+.subtitle span {
+    color: blue;
+}
+.data {
+    font-style: oblique;
+}
+
+.tim-img {
+    font-style: oblique;
+ 
+}
+
+
