@@ -1,0 +1,96 @@
+.header {
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    padding: 12px;
+    padding-top: 50px;
+    border-image-repeat: repeat;
+    background-size: contain;
+
+
+}
+
+.header-logo {
+    height: 50px;
+
+}
+
+
+/* fine header */
+.title {
+    font-size: 40px;
+}
+
+.subtitle span {
+    color: blue;
+}
+
+.data {
+    font-style: oblique;
+}
+
+.tim-img {
+    font-style: oblique;
+
+}
+
+/* fine tim-img */
+/* table csss */
+
+
+table {
+    border-collapse: collapse; 
+    border: none; 
+}
+
+td, th {
+    border: none; 
+    padding: 8px; 
+}
+
+
+.color-colon {
+    background-color: blue;
+    color: beige;
+
+}
+
+.color-colum2 {
+    background-color: turquoise;
+}
+
+.final-tex {
+    color: blue;
+}
+
+/* fine tabella  */
+
+/* parte finale */
+
+.images {
+    position: relative;
+}
+
+.images h4 {
+    position: absolute;
+    top: 1px;
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+
+}
+
+h3 {
+    color: rgb(151, 158, 158);
+}
+
+/* Centra il contenuto della pagina e lascia spazio ai lati */
+
+main {
+    position: relative;
+    margin: auto;
+    max-width: 1024px; 
+    display: block;
+   
+
+    
+}
